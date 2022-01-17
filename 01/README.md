@@ -1,8 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Exercício 01
-
-## Lista de exercícios de Ordenação
+# Lista de exercícios de Ordenação
 
 Usando o método `sort()` resolva as seguintes questões:
 
